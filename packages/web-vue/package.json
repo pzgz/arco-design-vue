@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "2.58.1",
+  "version": "2.58.2",
   "description": "Arco Design Vue 2.0: A Vue.js 3 UI Library",
   "keywords": [
     "arco",
