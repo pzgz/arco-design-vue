@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arco-design/arco-design-vue.git"
+    "url": "git+https://github.com/pzgz/arco-design-vue.git"
   },
   "sideEffects": [
     "dist/*",
